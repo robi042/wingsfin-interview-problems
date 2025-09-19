@@ -56,10 +56,12 @@ Your goal is to **figure out the least number of moves** required for Charlie to
 #### Input
 ```java
 new String[] {"OOOO", "OOFF", "OCHO", "OFOO"}
+```
 
 #### output
 ````java
 01:akfpi0cxd
+````
 
 
 # Problem 3: WebSocket JSON Message Processor
@@ -79,6 +81,7 @@ Write a **JavaScript program** to simulate the processing of **WebSocket message
   "id": integer,
   "data": object (only for "update" type)
 }
+```
 
 
 # Problem 4: Matrix Challenge (Boggle-style)
@@ -109,6 +112,7 @@ Determine if **all words** from the dictionary exist in the 4x4 matrix.
 #### Input 1
 ```java
 new String[] {"aaey, rrum, tgmn, ball", "all,ball,mur,raeymnl,tall,true,trum"}
+```
 
 
 # Problem 5: Age Counting and File Hash
@@ -118,6 +122,7 @@ new String[] {"aaey, rrum, tgmn, ball", "all,ball,mur,raeymnl,tall,true,trum"}
 ## Problem Statement
 Write a **JavaScript program** to perform a **GET request** on the route:  
 ```` http://coderbyte.com/api/challenges/json/age-counting
+````
 
 
 The API response contains a **data key** with a string of items in the format:  
@@ -141,4 +146,5 @@ The API response contains a **data key** with a string of items in the format:
 {
   "data": "key=IAfpK, age=32, key=WNVdi, age=64, key=jp9zt, age=40, key=9snd2, age=32"
 }
+```
 
