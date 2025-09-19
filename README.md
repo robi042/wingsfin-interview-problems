@@ -25,7 +25,6 @@ The Bash script should print the SHA1 hash of the Dockerfile contents in the fol
 Example Output
 2fd4e1c67a2d28fced849ee1bb76e7391b93eb12 Dockerfile
 
-
 # Problem 2: Searching Challenge
 
 **Category:** Back-end Challenge / Algorithm
