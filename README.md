@@ -16,7 +16,7 @@ The resulting `Dockerfile` should look like this:
 ```dockerfile
 FROM python:3
 RUN pip install numpy scipy pandas
-CMD ["python", "./main.py"]```
+CMD ["python", "./main.py"] ```
 
 Requirements
 
